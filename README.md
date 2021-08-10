@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranzRome
 - 👀 I’m interested in technology
-- 🌱 I’m currently practicing  JavaScript
+- 🌱 I’m currently practicing  JavaScript and Python
 - 📫 How to reach me francesco.romeo-work@libero.it or +39 3933261370
 
 <!---
