@@ -2,7 +2,9 @@
 FranzRome/FranzRome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> Who Am I <h1>
+
+<h1> Who Am I </h1>
+
 -  👋 Hi, I’m @FranzRome 💁‍♂️
 -  🇮🇹 I'm italian 🍝
 -  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
