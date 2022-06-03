@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 -  🇮🇹 I'm italian 🍝
 -  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
 -  👀 Technology enthusiast 🤖
--  Look at my [Web App](https://gas-continuo.web.app/home)
+-  Look at my [Web App](https://gas-continuo.web.app/home) (*Work In Progress!*)
 -  📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370
 
 <h2 align="left"> Languages and Tools: </h2>
