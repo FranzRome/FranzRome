@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
    />
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
       <img
-         src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+         src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg"
          alt="unity"
          width="40"
          height="40"
