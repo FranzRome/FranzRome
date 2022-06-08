@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1> Who Am I </h1>
 
 -  👋 Hi, I’m @FranzRome 💁‍♂️
--  🇮🇹 I'm italian 🍝
 -  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
 -  👀 Technology enthusiast 🤖
 -  Look at my [Web App](https://gas-continuo.web.app/home) (**Work In Progress!**)
