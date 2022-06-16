@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
 -  👋 Hi, I’m [Francesco Romeo](https://www.linkedin.com/in/francesco-romeo-446b96141) 💁‍♂️
 -  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
 -  [My Resume](https://franzrome.w3spaces.com/)
--  Look at my [Web App](https://gas-continuo.web.app/home) (**Work In Progress!**)
 -  📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370
 
 <h2 align="left"> Languages and Tools: </h2>
