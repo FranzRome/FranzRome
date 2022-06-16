@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 <h1> Who Am I </h1>
 
--  👋 Hi, I’m @FranzRome 💁‍♂️
+-  👋 Hi, I’m [Francesco Romeo](https://www.linkedin.com/in/francesco-romeo-446b96141) 💁‍♂️
 -  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
--  👀 Technology enthusiast 🤖
+-  [My Resume](https://franzrome.w3spaces.com/)
 -  Look at my [Web App](https://gas-continuo.web.app/home) (**Work In Progress!**)
 -  📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370
 
@@ -29,6 +29,18 @@ You can click the Preview link to take a look at your changes.
       <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
          alt="javascript"
+         width="40"
+         height="40"
+      />
+   </a>
+<a
+      href="https://processing.org/"
+      target="_blank"
+      rel="noreferrer"
+   >
+      <img
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1280px-Processing_2021_logo.svg.png"
+         alt="processing"
          width="40"
          height="40"
       />
