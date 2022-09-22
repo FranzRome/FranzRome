@@ -206,7 +206,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> My stats: </h2>
 
-[![My Stats](https://github-readme-stats.vercel.app/api/?username=franzrome&count_private=true&theme=merko&showicons=true&bg_color=00000000)]()
+[![My Stats](https://github-readme-stats.vercel.app/api/?username=franzrome&count_private=true&theme=tokyonight&showicons=true&bg_color=00000000)]()
 <br>
-[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=franzrome&langs_count=8&theme=merko&bg_color=00000000)]()
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=franzrome&langs_count=8&theme=tokyonight&bg_color=00000000)]()
 
