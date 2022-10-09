@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Franz </h1>
 <h3 align="center"> Mobile & Game Developer </h3>
 
--  👋 Hi, I’m [Francesco Romeo](https://www.franzrome.com/) 💁‍♂️
--  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
--  📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370 📱
+👋 Hi, I’m [Francesco Romeo](https://www.franzrome.com/) 💁‍♂️<br>
+👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘<br>
+📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370 📱<br>
 
 <h3 align="left"> Languages and Tools: </h3>
 <p align="left">
