@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 -  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
 -  📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370 📱
 
-<h2 align="left"> Languages and Tools: </h2>
+<h3 align="left"> Languages and Tools: </h3>
 <p align="left">
    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img
@@ -79,6 +79,7 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
+   <br>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -126,7 +127,7 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
-  
+  <br>
    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
       <img
          src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
@@ -186,7 +187,7 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
-  
+  <br>
    <a href="https://dart.dev" target="_blank" rel="noreferrer">
       <img
          src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
@@ -206,7 +207,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<h2> My stats: </h2>
+<h3> My stats: </h3>
 
 [![My Stats](https://github-readme-stats.vercel.app/api/?username=franzrome&count_private=true&theme=tokyonight&showicons=true&bg_color=00000000)]()
 <br>
