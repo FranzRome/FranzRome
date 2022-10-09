@@ -95,6 +95,14 @@ You can click the Preview link to take a look at your changes.
          width="40"
          height="40"
       />
+     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+         alt="css3"
+         width="40"
+         height="40"
+      />
+   </a>
    </a>
   <a hrft="https://docs.microsoft.com/en-us/dotnet/csharp">
     <img src="https://iconape.com/wp-content/png_logo_vector/c.png"
@@ -109,16 +117,7 @@ You can click the Preview link to take a look at your changes.
          width="40"
          height="40"
       />
-   </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-         alt="css3"
-         width="40"
-         height="40"
-      />
-   </a>
-    
+   </a>    
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img
          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
