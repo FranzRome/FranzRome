@@ -2,10 +2,12 @@
 FranzRome/FranzRome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center"> Franz </h1>
+<h3 align="center"> Mobile & Game Developer </h3>
 
 -  👋 Hi, I’m [Francesco Romeo](https://www.franzrome.com/) 💁‍♂️
 -  👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘
--  📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370
+-  📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370 📱
 
 <h2 align="left"> Languages and Tools: </h2>
 <p align="left">
