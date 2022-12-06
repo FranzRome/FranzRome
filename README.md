@@ -3,7 +3,7 @@ FranzRome/FranzRome is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"> Franz </h1>
-<h3 align="center"> Mobile & Game Developer </h3>
+<h2 align="center"> Mobile & Web Developer </h2>
 
 👋 Hi, I’m [Francesco Romeo](https://www.franzrome.com/) 💁‍♂️<br>
 👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘<br>
