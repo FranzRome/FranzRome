@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
    Mobile & Web Developer
 </h1>
 
-👋 Hi, I’m [Francesco Romeo](https://www.franzrome.com/) 💁‍♂️<br>
-👨‍🎓 Currently studying at [ITS ICT](https://www.its-ictpiemonte.it/) in Piedmont, Italy 📘<br>
-📫 Contact me: francesco.romeo-work@libero.it or +39 3933261370 📱<br>
+👋 Hi, I’m Francesco Romeo 💁‍♂️<br>
+👀 Look at [my wbsite](https://franzrome.github.io/) and give it a try 👆<br>
+📫 Contact me: francesco.romeo.work@gmail.com 📱<br>
 
 <h2 align="left"> Languages and Tools: </h2>
 <p align="left">
