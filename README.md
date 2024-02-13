@@ -21,6 +21,32 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
+	  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+      <img
+         src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
+         alt="kotlin"
+         width="40"
+         height="40"
+      />
+   </a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+      <img
+         src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+         alt="dart"
+         width="40"
+         height="40"
+      />
+  </a>
+   
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img
+        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+        alt="flutter"
+        width="40"
+        height="40"
+    />
+  </a>
+  <br>
      <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
@@ -29,18 +55,6 @@ You can click the Preview link to take a look at your changes.
       <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
          alt="javascript"
-         width="40"
-         height="40"
-      />
-   </a>
-<a
-      href="https://processing.org/"
-      target="_blank"
-      rel="noreferrer"
-   >
-      <img
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1280px-Processing_2021_logo.svg.png"
-         alt="processing"
          width="40"
          height="40"
       />
@@ -84,7 +98,7 @@ You can click the Preview link to take a look at your changes.
    <br>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png"
          alt="bootstrap"
          width="40"
          height="40"
@@ -105,7 +119,9 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
-   </a>
+
+<br>
+	
   <a hrft="https://docs.microsoft.com/en-us/dotnet/csharp">
     <img src="https://iconape.com/wp-content/png_logo_vector/c.png"
          alt="c#"
@@ -119,7 +135,17 @@ You can click the Preview link to take a look at your changes.
          width="40"
          height="40"
       />
-   </a>    
+		 
+   </a>
+	  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+         alt="unity"
+         width="40"
+         height="40"
+      />
+   </a>
+  <br>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img
          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -128,7 +154,6 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
-  <br>
    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
       <img
          src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
@@ -137,17 +162,7 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
-   
-   </a>
-   
-   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-      <img
-         src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-         alt="kotlin"
-         width="40"
-         height="40"
-      />
-   </a>
+	
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -164,36 +179,8 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
    </a>
-   <a
-      href="https://www.adobe.com/products/xd.html"
-      target="_blank"
-      rel="noreferrer"
-   >
-      <img
-         src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-         alt="xd"
-         width="40"
-         height="40"
-      />
-   </a>
   <br>
-   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img
-         src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-         alt="dart"
-         width="40"
-         height="40"
-      />
-  </a>
-     
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="flutter"
-        width="40"
-        height="40"
-    />
-  </a>
+  
 </p>
 
 <h3> My stats: </h3>
