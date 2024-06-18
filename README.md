@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 👋 Hi, I’m Francesco Romeo<br>
- $\textrm{ 👀 Look at my {\color{red}M} \color{orange}a \color{yellow}g \color{green}i \color{blue}g \color{lightblue}a \color{purple}l}$ **[website](https://franzrome.github.io/)** and give a try to the projects inside it<br>
+ $\textrm{ 👀 Look at my {\color{red}M} \color{orange}a \color{yellow}g \color{green}i \color{blue}g \color{lightblue}a \color{purple}l}$ **[website](https://franzrome.github.io/)** and give a try to any projectc inside it<br>
 📫 Contact me: francesco.romeo.work@gmail.com 📱<br>
 
 <h2 align="left"> Languages and Tools: </h2>
@@ -139,6 +139,15 @@ You can click the Preview link to take a look at your changes.
          height="40"
       />
 		 
+   </a>
+
+   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+   <img
+	   src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"
+	   alt="unity"
+	   width="40"
+	   height="40"
+	/>
    </a>
 	  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img
