@@ -6,9 +6,12 @@ You can click the Preview link to take a look at your changes.
    Franz <br>
    Mobile & Web Developer
 </h1>
+<p align="center">
+	<img src="https://www.pokencyclopedia.info/sprites/gen5/ani_black-white/ani_bw_448.gif" width="80"/>
+</p>
 
-👋 Hi, I’m Francesco Romeo 💁‍♂️<br>
-👀 Look at [my wbsite](https://franzrome.github.io/) and give it a try 👆<br>
+👋 Hi, I’m Francesco Romeo<br>
+ $\textrm{ 👀 Look at my {\color{red}M} \color{orange}a \color{yellow}g \color{green}i \color{blue}g \color{lightblue}a \color{purple}l}$ **[website](https://franzrome.github.io/)** and give a try to the projects inside it<br>
 📫 Contact me: francesco.romeo.work@gmail.com 📱<br>
 
 <h2 align="left"> Languages and Tools: </h2>
