@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 👋 Hi, I’m Francesco Romeo<br>
- $\textrm{ 👀 Look at my [website](https://franzrome.github.io/)** and give a try to any projectc inside it<br>
+👀 Look at my [website](https://franzrome.github.io/) and give a try to any projectc inside it<br>
 📫 Contact me: francesco.romeo.work@gmail.com <br>
 
 <h2 align="left"> Languages and Tools: </h2>
