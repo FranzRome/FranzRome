@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">
    Franz <br>
-   Mobile & Web Developer
+   Full Stack Developer
 </h1>
 <p align="center">
 	<img src="https://www.pokencyclopedia.info/sprites/gen5/ani_black-white/ani_bw_448.gif" width="80"/>
